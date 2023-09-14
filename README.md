@@ -6,6 +6,8 @@ A falta de iluminação também pode contribuir para aumentar a vulnerabilidade 
 Em resumo, a falta de segurança e eficiência no tráfego noturno pode afetar a qualidade de vida das pessoas e aumentar o risco de acidentes e assaltos. É importante buscar soluções inovadoras e tecnológicas para resolver esses problemas e garantir a segurança e o bem-estar das comunidades locais 
 Para solucionar esses problemas, propomos um sistema de semáforo inteligente que utiliza sensores para detectar a presença de carros e pedestres. Quando um carro se aproxima, o semáforo é aberto automaticamente, permitindo que o tráfego flua de maneira mais eficiente. Ao mesmo tempo, o sistema prioriza os pedestres, garantindo que eles tenham tempo suficiente para atravessar com segurança. 
 
+
+
 #Draft da Arquitetura:
 
 Dispositivos IoT:
@@ -16,6 +18,8 @@ Dispositivos IoT:
 
 -Conexão de rede para transmitir dados para o back-end.
 
+
+
 Back-end:
 
 -Servidores de aplicação para processar dados em tempo real.
@@ -24,11 +28,14 @@ Back-end:
 
 -Conexão à Internet para comunicação com dispositivos IoT e front-end.
 
+
+
 Front-end:
 
 -Plataforma de desenvolvimento de interface do usuário (por exemplo React).
 
 -Acesso à API do back-end para receber informações sobre o estado do tráfego.
+
 
 
 #Instruções de Uso:
@@ -44,6 +51,7 @@ Para utilizar o sistema de semáforo inteligente, siga estas etapas:
 -Conecte os dispositivos IoT ao back-end e certifique-se de que a comunicação esteja funcionando corretamente.
 
 -Monitore o sistema por meio do front-end para garantir que os semáforos estejam operando conforme o esperado.
+
 
 
 Requisitos e Dependências:
